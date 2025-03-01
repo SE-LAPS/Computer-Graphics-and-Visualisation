@@ -70,6 +70,5 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License.
 
 ## 🔟 Contact
-📧 Email: your-email@example.com  
-🌍 Website: [Your Website](https://your-website.com)  
-🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)
+
+🌍 Website: [Your Website](https://codeshow-lapz.web.app)  
