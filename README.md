@@ -27,7 +27,7 @@ The **Computer Graphics and Visualization** project is designed to provide inter
  ├── README.md         # Project Documentation
  └── requirements.txt  # Dependencies
 ```
-## 📸 Visualization
+## 5️⃣ Visualization
 <table>
   <tr>
     <td align="center">
@@ -44,7 +44,7 @@ The **Computer Graphics and Visualization** project is designed to provide inter
 </table>
 
 
-## 5️⃣ Installation
+## 6️⃣ Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/SE-LAPS/Computer-Graphics-and-Visualisation.git
@@ -58,7 +58,7 @@ The **Computer Graphics and Visualization** project is designed to provide inter
    pip install -r requirements.txt  # For Python-based visualization
    ```
 
-## 6️⃣ Usage
+## 7️⃣ Usage
 1. Run the visualization program:
    ```sh
    python main.py
@@ -69,22 +69,22 @@ The **Computer Graphics and Visualization** project is designed to provide inter
    npm start
    ```
 
-## 7️⃣ Testing
+## 8️⃣ Testing
 Run the test suite to ensure everything is working correctly:
 ```sh
 pytest tests/
 ```
 
-## 8️⃣ Contributing
+## 9️⃣ Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repo
 2. Create a new branch (`feature-new-visualization`)
 3. Commit your changes
 4. Push to your branch and submit a PR
 
-## 9️⃣ License
+## 🔟 License
 This project is licensed under the MIT License.
 
-## 🔟 Contact
+## 1️⃣1️⃣ Contact
 
 🌍 Website: [Website](https://codeshow-lapz.web.app)  
