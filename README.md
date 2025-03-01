@@ -31,7 +31,7 @@ The **Computer Graphics and Visualization** project is designed to provide inter
 ## 5️⃣ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/computer-graphics-visualization.git
+   git clone https://github.com/SE-LAPS/Computer-Graphics-and-Visualisation.git
    ```
 2. Navigate to the project directory:
    ```sh
