@@ -27,6 +27,21 @@ The **Computer Graphics and Visualization** project is designed to provide inter
  ├── README.md         # Project Documentation
  └── requirements.txt  # Dependencies
 ```
+## 📸 Visualization
+<table>
+  <tr>
+    <td align="center">
+      <img src="path/to/image1.png" width="300" alt="Image One"/>
+      <br/>
+      <b>Image One</b>
+    </td>
+    <td align="center">
+      <img src="path/to/image2.png" width="300" alt="Image Two"/>
+      <br/>
+      <b>Image Two</b>
+    </td>
+  </tr>
+</table>
 
 ## 5️⃣ Installation
 1. Clone the repository:
