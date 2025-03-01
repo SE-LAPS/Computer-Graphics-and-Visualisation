@@ -4,11 +4,11 @@
 The **Computer Graphics and Visualization** project is designed to provide interactive graphical representations and visual simulations. It includes techniques for rendering, shading, modeling, and real-time visualization, making it ideal for applications in gaming, simulations, and data visualization.
 
 ## 2️⃣ Features
-- ✅ 3D & 2D Graphics Rendering 🎭
-- ✅ Real-Time Animation ⏳
-- ✅ Shader Programming 🎨
-- ✅ Interactive UI & Scene Control 🕹️
-- ✅ High-Performance Rendering ⚡
+- ✅ 3D & 2D Graphics Rendering 
+- ✅ Real-Time Animation 
+- ✅ Shader Programming 
+- ✅ Interactive UI & Scene Control 
+- ✅ High-Performance Rendering 
 
 ## 3️⃣ Technologies Used
 - 🎮 OpenGL / WebGL
