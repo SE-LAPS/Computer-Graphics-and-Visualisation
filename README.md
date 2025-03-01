@@ -31,17 +31,18 @@ The **Computer Graphics and Visualization** project is designed to provide inter
 <table>
   <tr>
     <td align="center">
-      <img src="![Result1](https://github.com/user-attachments/assets/6482c0c3-5589-4034-8ee5-47ae6180c35c)" width="300" alt="One"/>
+      <img src="https://github.com/user-attachments/assets/6482c0c3-5589-4034-8ee5-47ae6180c35c" width="300" alt="Image One"/>
       <br/>
       <b>Image One</b>
     </td>
     <td align="center">
-      <img src="![Result2](https://github.com/user-attachments/assets/2e2ccc07-5bf3-4bf5-b03f-d750246216dc)" width="300" alt="Two"/>
+      <img src="https://github.com/user-attachments/assets/2e2ccc07-5bf3-4bf5-b03f-d750246216dc" width="300" alt="Image Two"/>
       <br/>
       <b>Image Two</b>
     </td>
   </tr>
 </table>
+
 
 ## 5️⃣ Installation
 1. Clone the repository:
